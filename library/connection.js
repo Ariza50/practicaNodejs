@@ -8,7 +8,7 @@
 var mongoose = require('mongoose');
 var db = mongoose.connection;
 
-mongoose.Promise = global.Promise;
+//mongoose.Promise = global.Promise;
 
 
 db.on('error', console.log.bind(console));

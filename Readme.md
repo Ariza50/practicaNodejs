@@ -76,4 +76,12 @@ http://localhost:3000/apiv1/anuncios?lg=es&tags=motor&tags=mobile
 http://localhost:3000/apiv1/tags?lg=es
 
 
+****Práctica DevOps****
+
+La direccion ip es (Bootstrap):
+http://34.193.5.246/
+
+Dentro de esta página podrás encontrar un botón con la ip a la la API nodepop
+y también un botón con la imagen estática servida por Nginx.
+
 
